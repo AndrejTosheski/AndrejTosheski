@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrej Tosheski</h1>
-<h3 align="center">I'm a Student, Developer and Content Creator</h3>
+<h3 align="center">I'm a Student & Software Engineer</h3>
 
 - 📚 I'm constantly learning **new skills**
 
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/channel/UCX-7tw1jM9B7OIv7ncxmcFA)
 
 - 📧 You can contact me at **atosheski123@gmail.com**
 
