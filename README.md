@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrej Tosheski</h1>
-<h3 align="center">I'm a Student & Software Engineer</h3>
+<h3 align="center">I'm a Student & Full-stack Web Developer</h3>
 
 - 📚 I'm constantly learning **new skills**
 
