@@ -90,7 +90,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AndrejTosheski/AndrejTosheski/output/snake.svg" alt="Snake animation" />
-
-###
