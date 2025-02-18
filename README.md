@@ -30,8 +30,9 @@
   🚀 Full-stack Developer building modern web apps<br>
   💡 Always learning and experimenting with new tech<br>
   🛠️ Passionate about clean code, performance optimization, scalability and UI/UX design<br>
-  🎮 In my free time, I enjoy gaming and exploring new tech trends<br><br>
-  📧 You can contact me at **atosheski123@gmail.com**</p>
+  🎮 In my free time, I enjoy gaming and exploring new tech trends<br><br></p>
+
+  📧 You can contact me at **atosheski123@gmail.com**
 
 ###
 
